@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8dfb"
+  },
+  "month": 1,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8dfc"
+  },
+  "month": 2,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8dfd"
+  },
+  "month": 3,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8dfe"
+  },
+  "month": 4,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8dff"
+  },
+  "month": 5,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e00"
+  },
+  "month": 6,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e01"
+  },
+  "month": 7,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e02"
+  },
+  "month": 8,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e03"
+  },
+  "month": 9,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e04"
+  },
+  "month": 10,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e05"
+  },
+  "month": 11,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+},{
+  "_id": {
+    "$oid": "63aea4ccd3b93e8dd88c8e06"
+  },
+  "month": 12,
+  "year": 2022,
+  "products": [],
+  "sales": 0
+}]

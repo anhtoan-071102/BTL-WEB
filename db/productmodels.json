@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "name": "Mô hình Luffy gear 5",
+  "modelCode": "GEIDK",
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "quantity": 10,
+  "imageUrl": "http://localhost:8080/images/products/RWPvUGW0NO.jpg",
+  "price": 1500000,
+  "warrantyPeriod": 12,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378690433"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f6d"
+  },
+  "name": "Mô hình Zoro",
+  "modelCode": "WWJFJ",
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/kuJPLqJ1Pu.jpg",
+  "price": 700000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f6e"
+  },
+  "name": "Mô hình Shank tóc đỏ",
+  "modelCode": "HZNYT",
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/KXp62XCWVF.jpg",
+  "price": 500000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f6f"
+  },
+  "name": "Mô hình Songoku super saiyan 4",
+  "modelCode": "UEQUF",
+  "productLine": {
+    "$oid": "63ad657dd1138aaa70aa064f"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/H0VJyVz0z6.jpg",
+  "price": 200000,
+  "warrantyPeriod": 3
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f70"
+  },
+  "name": "Mô hình Songoku super saiyan blue",
+  "modelCode": "IUHAF",
+  "productLine": {
+    "$oid": "63ad657dd1138aaa70aa064f"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/ndvN4IkxK8.jpg",
+  "price": 200000,
+  "warrantyPeriod": 3
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f71"
+  },
+  "name": "Mô hình Frieza",
+  "modelCode": "ODXVI",
+  "productLine": {
+    "$oid": "63ad657dd1138aaa70aa064f"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/JGJUaJsnPY.jpg",
+  "price": 200000,
+  "warrantyPeriod": 3
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f72"
+  },
+  "name": "Mô hình Natsu rồng lửa",
+  "modelCode": "CBXMH",
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/V6sO3Zbsn5.jpg",
+  "price": 1500000,
+  "warrantyPeriod": 12
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f73"
+  },
+  "name": "Mô hình Gray băng",
+  "modelCode": "QIHUK",
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/VsKfp5ioDT.jpg",
+  "price": 300000,
+  "warrantyPeriod": 3
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "name": "Mô hình Luci",
+  "modelCode": "LPSWD",
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "quantity": 20,
+  "imageUrl": "http://localhost:8080/images/products/BDRkZIaT9D.jpg",
+  "price": 300000,
+  "warrantyPeriod": 3,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f75"
+  },
+  "name": "Mô hình robot và siêu nhân Gokaiger",
+  "modelCode": "NOTUO",
+  "productLine": {
+    "$oid": "63ad65ded1138aaa70aa0653"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/vgA9r0iK4v.jpg",
+  "price": 500000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f76"
+  },
+  "name": "Mô hình robo Gozyujin",
+  "modelCode": "VQROR",
+  "productLine": {
+    "$oid": "63ad65ded1138aaa70aa0653"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/bJEzgVKazZ.jpg",
+  "price": 1000000,
+  "warrantyPeriod": 12
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f77"
+  },
+  "name": "Mô hình DX Gao Lion",
+  "modelCode": "IMMIN",
+  "productLine": {
+    "$oid": "63ad65ded1138aaa70aa0653"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/PBNP80gFbI.jpg",
+  "price": 450000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f78"
+  },
+  "name": "Mô hình Entry Grade Kamen Rider Saber Bandai",
+  "modelCode": "ISGGE",
+  "productLine": {
+    "$oid": "63ad6653d1138aaa70aa0657"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/wYGL5vM1Lh.jpg",
+  "price": 300000,
+  "warrantyPeriod": 5
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f79"
+  },
+  "name": "Mô hình Kamen Rider Joker Bandai Figure Rise Standard",
+  "modelCode": "BSUWS",
+  "productLine": {
+    "$oid": "63ad6653d1138aaa70aa0657"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/aqBphvy6Xe.jpg",
+  "price": 600000,
+  "warrantyPeriod": 5
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7a"
+  },
+  "name": "Mô hình Kamen Rider Den-O Sword Form",
+  "modelCode": "BLDQI",
+  "productLine": {
+    "$oid": "63ad6653d1138aaa70aa0657"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/c8wLn7SuF1.jpg",
+  "price": 1000000,
+  "warrantyPeriod": 12
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7b"
+  },
+  "name": "Mô hình Kakashi",
+  "modelCode": "ZRURS",
+  "productLine": {
+    "$oid": "63a9c89961ca8ab3eb4ef83f"
+  },
+  "quantity": 1,
+  "imageUrl": "http://localhost:8080/images/products/thP3uwFMsd.jpg",
+  "price": 1600000,
+  "warrantyPeriod": 12,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389230246"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7c"
+  },
+  "name": "Mô hình Naruto cửu vĩ",
+  "modelCode": "EIVBS",
+  "productLine": {
+    "$oid": "63a9c89961ca8ab3eb4ef83f"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/boxOHU9h9W.jpg",
+  "price": 1600000,
+  "warrantyPeriod": 12
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7d"
+  },
+  "name": "Mô hình Itachi",
+  "modelCode": "TMAYW",
+  "productLine": {
+    "$oid": "63a9c89961ca8ab3eb4ef83f"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/F017d6pO2q.jpg",
+  "price": 1600000,
+  "warrantyPeriod": 12
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7e"
+  },
+  "name": "Mô hình CHOUDO ULTRAMAN DARK ORB",
+  "modelCode": "TMAYW",
+  "productLine": {
+    "$oid": "63ad66a0d1138aaa70aa065b"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/RGvKYaCkUk.jpg",
+  "price": 400000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f7f"
+  },
+  "name": "Mô hình Ultraman Orb",
+  "modelCode": "YSGCC",
+  "productLine": {
+    "$oid": "63ad66a0d1138aaa70aa065b"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/JuxVvusCeH.jpg",
+  "price": 390000,
+  "warrantyPeriod": 6
+},{
+  "_id": {
+    "$oid": "63adc86a75f71a4a047c6f80"
+  },
+  "name": "Mô hình Ultraman Geed",
+  "modelCode": "RYDKO",
+  "productLine": {
+    "$oid": "63ad66a0d1138aaa70aa065b"
+  },
+  "quantity": 0,
+  "imageUrl": "http://localhost:8080/images/products/GyLQENxfn0.jpg",
+  "price": 390000,
+  "warrantyPeriod": 6
+}]

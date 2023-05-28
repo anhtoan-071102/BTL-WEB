@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "63abe3d147544b353681e716"
+  },
+  "name": "Cơ sở 1",
+  "factoryCode": "VDGGC0",
+  "province": "Thành phố Hà Nội",
+  "district": "Quận Nam Từ Liêm",
+  "ward": "Phường Cầu Diễn",
+  "street": "số 999",
+  "phoneNumber": "0938722828",
+  "email": "cs1@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672209361803"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672209361803"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "name": "Cơ sở 2",
+  "factoryCode": "N2WJHF",
+  "province": "Thành phố Hải Phòng",
+  "district": "Quận Hồng Bàng",
+  "ward": "Phường Hùng Vương",
+  "street": "số 5000",
+  "phoneNumber": "0972728917",
+  "email": "cs2@gmail.com",
+  "totalProducts": 21,
+  "products": [
+    {
+      "$oid": "63ae79416f39c81d9db7d61e"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d61f"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d620"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d621"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d622"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d623"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d624"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d625"
+    },
+    {
+      "$oid": "63ae79416f39c81d9db7d626"
+    },
+    {
+      "$oid": "63aea26ee51b4093273ff40c"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41a"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41b"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41c"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41d"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41e"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff41f"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff420"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff421"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff422"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff423"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff424"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff425"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff426"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff427"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff428"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff429"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff42a"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff42b"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff42c"
+    },
+    {
+      "$oid": "63aea282e51b4093273ff42d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672209474781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250756"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "63ad66cad1138aaa70aa0661"
+  },
+  "name": "Cơ sở 3",
+  "factoryCode": "TCSLL9",
+  "province": "Tỉnh Cao Bằng",
+  "district": "Huyện Bảo Lạc",
+  "ward": "Xã Cốc Pàng",
+  "street": "số 5000",
+  "phoneNumber": "0397726993",
+  "email": "cs3@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308426883"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308426883"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad6734d1138aaa70aa0665"
+  },
+  "name": "Cơ sở 4",
+  "factoryCode": "CJR7F3",
+  "province": "Thành phố Hồ Chí Minh",
+  "district": "Quận 3",
+  "ward": "Phường 05",
+  "street": "số 999",
+  "phoneNumber": "0938662888",
+  "email": "cs4@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308532433"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308532433"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad6783d1138aaa70aa0669"
+  },
+  "name": "Cơ sở 5",
+  "factoryCode": "JCDGQB",
+  "province": "Tỉnh Bình Dương",
+  "district": "Huyện Phú Giáo",
+  "ward": "Xã Phước Sang",
+  "street": "số 5000",
+  "phoneNumber": "0938662222",
+  "email": "cs5@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308611545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308611545"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad67c4d1138aaa70aa066d"
+  },
+  "name": "Cơ sở 6",
+  "factoryCode": "9HQHRL",
+  "province": "Thành phố Đà Nẵng",
+  "district": "Quận Sơn Trà",
+  "ward": "Phường Phước Mỹ",
+  "street": "số 999",
+  "phoneNumber": "0273864272",
+  "email": "cs6@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308676959"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308676959"
+    }
+  },
+  "__v": 0
+}]

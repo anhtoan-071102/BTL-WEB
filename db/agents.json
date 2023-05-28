@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "63abf0054d007adda6c1a347"
+  },
+  "name": "Đại lý 1",
+  "province": "Thành phố Hà Nội",
+  "district": "Quận Tây Hồ",
+  "ward": "Phường Nhật Tân",
+  "street": "số 9999",
+  "phoneNumber": "0239728838",
+  "email": "agent1@gmail.com",
+  "totalProducts": 0,
+  "products": [
+    {
+      "$oid": "63ae79416f39c81d9db7d61d"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672212485921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672385919604"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "63abf0594d007adda6c1a34c"
+  },
+  "name": "Đại lý 2",
+  "province": "Tỉnh Thái Bình",
+  "district": "Huyện Thái Thụy",
+  "ward": "Thị trấn Diêm Điền",
+  "street": "số 9999",
+  "phoneNumber": "0388092977",
+  "email": "agent2@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672212569575"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672212569575"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad696ed1138aaa70aa06a9"
+  },
+  "name": "Đại lý 3",
+  "province": "Thành phố Hải Phòng",
+  "district": "Quận Ngô Quyền",
+  "ward": "Phường Vạn Mỹ",
+  "street": "số 9999",
+  "phoneNumber": "0745826992",
+  "email": "agent3@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672309102435"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672309102435"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad69acd1138aaa70aa06ad"
+  },
+  "name": "Đại lý 4",
+  "province": "Thành phố Đà Nẵng",
+  "district": "Quận Ngũ Hành Sơn",
+  "ward": "Phường Hoà Quý",
+  "street": "số 888",
+  "phoneNumber": "0932720001",
+  "email": "agent4@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672309164744"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672309164744"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad69dfd1138aaa70aa06b1"
+  },
+  "name": "Đại lý 5",
+  "province": "Thành phố Hồ Chí Minh",
+  "district": "Quận 12",
+  "ward": "Phường Thạnh Lộc",
+  "street": "số 5000",
+  "phoneNumber": "0392003661",
+  "email": "agent5@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672309215767"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672309215767"
+    }
+  },
+  "__v": 0
+}]

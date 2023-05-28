@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "name": "Mô hình One Piece",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f6c"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f6e"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f6d"
+    }
+  ],
+  "description": "không",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672071063326"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378690360"
+    }
+  },
+  "__v": 3,
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "63a9c89961ca8ab3eb4ef83f"
+  },
+  "name": "Mô hình Naruto",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f7b"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f7c"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f7d"
+    }
+  ],
+  "description": "nhân vật Naruto",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672071321242"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389230179"
+    }
+  },
+  "__v": 3,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "name": "Mô hình Fairy Tail",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f72"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f73"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f74"
+    }
+  ],
+  "description": "mô hình các nhân vật trong anime Fairy Tail",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308054524"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250626"
+    }
+  },
+  "__v": 3,
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "63ad657dd1138aaa70aa064f"
+  },
+  "name": "Mô hình Dragon Ball",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f6f"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f70"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f71"
+    }
+  ],
+  "description": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308093699"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378470094"
+    }
+  },
+  "__v": 3,
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "63ad65ded1138aaa70aa0653"
+  },
+  "name": "Mô hình Gokaiger",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f75"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f77"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f76"
+    }
+  ],
+  "description": "mô hình siêu nhân, robot, yêu quái trong siêu nhân hải tặc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308190739"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378469774"
+    }
+  },
+  "__v": 3,
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "63ad6653d1138aaa70aa0657"
+  },
+  "name": "Mô hình Kamen Rider OOO",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f78"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f79"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f7a"
+    }
+  ],
+  "description": "mô hình các trạng thái của các nhân vật trong OOO và quái thú",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308307861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378469869"
+    }
+  },
+  "__v": 3,
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "63ad66a0d1138aaa70aa065b"
+  },
+  "name": "Mô hình Ultraman Orb",
+  "productModels": [
+    {
+      "$oid": "63adc86a75f71a4a047c6f7f"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f7e"
+    },
+    {
+      "$oid": "63adc86a75f71a4a047c6f80"
+    }
+  ],
+  "description": "mô hình Orb và quái thú",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308384712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378469942"
+    }
+  },
+  "__v": 3,
+  "quantity": 0
+}]

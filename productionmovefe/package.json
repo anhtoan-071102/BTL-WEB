@@ -1,0 +1,20 @@
+{
+  "name": "productionmovefe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "sass": "^1.56.2"
+  },
+  "dependencies": {
+    "dvhcvn": "^1.0.20221001",
+    "parcel": "^2.8.2"
+  }
+}

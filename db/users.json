@@ -1,0 +1,444 @@
+[{
+  "_id": {
+    "$oid": "639b45619545831d2904a48c"
+  },
+  "name": "Naksu",
+  "email": "naksu@gmail.com",
+  "phoneNumber": "0938737737",
+  "role": "Ban điều hành",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671037200000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671037200000"
+    }
+  },
+  "imageUrl": "http://localhost:8080/images/users/naksu.jpg",
+  "status": "Kích hoạt"
+},{
+  "_id": {
+    "$oid": "63ad5ef6d1138aaa70aa05cf"
+  },
+  "name": "Lionel Messi",
+  "imageUrl": "http://localhost:8080/images/users/eX4RPlkiTG.jpg",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": null,
+  "email": "messi@gmail.com",
+  "phoneNumber": "0938727555",
+  "role": "Ban điều hành",
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672306422713"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672306422713"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad611dd1138aaa70aa05ef"
+  },
+  "name": "Cristiano Ronaldo",
+  "imageUrl": "http://localhost:8080/images/users/kG00eol42f.jpg",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": null,
+  "email": "ronaldo@gmail.com",
+  "phoneNumber": "0938626441",
+  "role": "Ban điều hành",
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672306973199"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672306973199"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f82"
+  },
+  "name": "Bùi Anh Toàn",
+  "imageUrl": "http://localhost:8080/images/users/46yLSkA336.jpg",
+  "email": "anhtoan@gmail.com",
+  "phoneNumber": "0837616512",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63abe3d147544b353681e716"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f83"
+  },
+  "name": "Đỗ Chiến Thắng",
+  "imageUrl": "http://localhost:8080/images/users/Uw44GcvoZY.jpg",
+  "email": "chienthang@gmail.com",
+  "phoneNumber": "0323423423",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f84"
+  },
+  "name": "Nguyễn Văn Nam",
+  "imageUrl": "http://localhost:8080/images/users/iQ8a7mIQ47.jpg",
+  "email": "vannam@gmail.com",
+  "phoneNumber": "0937816542",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63ad66cad1138aaa70aa0661"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f85"
+  },
+  "name": "Trần Nam Anh",
+  "imageUrl": "http://localhost:8080/images/users/GGOAsBXcFq.jpg",
+  "email": "namanh@gmail.com",
+  "phoneNumber": "0337856241",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63ad6734d1138aaa70aa0665"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f86"
+  },
+  "name": "Trần Thị Vân",
+  "imageUrl": "http://localhost:8080/images/users/j1H6twDeqa.jpg",
+  "email": "thivan@gmail.com",
+  "phoneNumber": "0939856747",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63ad6783d1138aaa70aa0669"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f87"
+  },
+  "name": "Lê Thị Hồng Tuyết",
+  "imageUrl": "http://localhost:8080/images/users/Hjv6YSW5pq.jpg",
+  "email": "tuyethong@gmail.com",
+  "phoneNumber": "0967856742",
+  "role": "Cơ sở sản xuất",
+  "factory": {
+    "$oid": "63ad67c4d1138aaa70aa066d"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f88"
+  },
+  "name": "Trần Tuấn Long",
+  "imageUrl": "http://localhost:8080/images/users/rIBTcZ6qhH.jpg",
+  "email": "tuanlong@gmail.com",
+  "phoneNumber": "03878047023",
+  "role": "Đại lý phân phối",
+  "factory": null,
+  "agent": {
+    "$oid": "63abf0054d007adda6c1a347"
+  },
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f89"
+  },
+  "name": "Lê Văn Hà",
+  "imageUrl": "http://localhost:8080/images/users/XbNSDrjbVj.jpg",
+  "email": "vanha@gmail.com",
+  "phoneNumber": "08388167953",
+  "role": "Đại lý phân phối",
+  "factory": null,
+  "agent": {
+    "$oid": "63abf0594d007adda6c1a34c"
+  },
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8a"
+  },
+  "name": "Hà Thị Lan",
+  "imageUrl": "http://localhost:8080/images/users/d2247d16yi.jpg",
+  "email": "thilan@gmail.com",
+  "phoneNumber": "0900123990",
+  "role": "Đại lý phân phối",
+  "factory": null,
+  "agent": {
+    "$oid": "63ad696ed1138aaa70aa06a9"
+  },
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8b"
+  },
+  "name": "Bùi Quang Vinh",
+  "imageUrl": "http://localhost:8080/images/users/7xHgbTVAMm.jpg",
+  "email": "quangvinh@gmail.com",
+  "phoneNumber": "0389939570",
+  "role": "Đại lý phân phối",
+  "factory": null,
+  "agent": {
+    "$oid": "63ad69acd1138aaa70aa06ad"
+  },
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8c"
+  },
+  "name": "Bùi Hoa Lan",
+  "imageUrl": "http://localhost:8080/images/users/ITUKbVoM9F.jpg",
+  "email": "hoalan@gmail.com",
+  "phoneNumber": "0309739482",
+  "role": "Đại lý phân phối",
+  "factory": null,
+  "agent": {
+    "$oid": "63ad69dfd1138aaa70aa06b1"
+  },
+  "serviceCenter": null,
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8d"
+  },
+  "name": "Lê Ngọc Lan",
+  "imageUrl": "http://localhost:8080/images/users/Vb49anly49.jpg",
+  "email": "ngoclan@gmail.com",
+  "phoneNumber": "0938738340",
+  "role": "Trung tâm bảo hành",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": {
+    "$oid": "63ac106f35fa07b0bc19cccf"
+  },
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8e"
+  },
+  "name": "Đào Nguyên Hoàng",
+  "imageUrl": "http://localhost:8080/images/users/tGhIADor70.jpg",
+  "email": "nguyenhoang@gmail.com",
+  "phoneNumber": "0335468051",
+  "role": "Trung tâm bảo hành",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": {
+    "$oid": "63ad6823d1138aaa70aa0691"
+  },
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f8f"
+  },
+  "name": "Đỗ Hùng Cường",
+  "imageUrl": "http://localhost:8080/images/users/ONHoJmT6fJ.jpg",
+  "email": "hungcuong@gmail.com",
+  "phoneNumber": "0968438928",
+  "role": "Trung tâm bảo hành",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": {
+    "$oid": "63ad6865d1138aaa70aa0695"
+  },
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63adc8ab75f71a4a047c6f90"
+  },
+  "name": "Hà Việt Hoàng",
+  "imageUrl": "http://localhost:8080/images/users/TenOchR2ns.jpg",
+  "email": "viethoang@gmail.com",
+  "phoneNumber": "0387434907",
+  "role": "Trung tâm bảo hành",
+  "factory": null,
+  "agent": null,
+  "serviceCenter": {
+    "$oid": "63ad68a5d1138aaa70aa069d"
+  },
+  "status": "Kích hoạt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672246800000"
+    }
+  }
+}]

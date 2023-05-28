@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "639b46519545831d2904a48f"
+  },
+  "username": "naksu",
+  "password": "$2a$12$GxWMjLdOet2jb/ZUrBsyyuwebEjkxLrUtfvpAESwuPqefqBowsHh2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671037200000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671037200000"
+    }
+  },
+  "user": {
+    "$oid": "639b45619545831d2904a48c"
+  }
+},{
+  "_id": {
+    "$oid": "63ad5ef7d1138aaa70aa05d1"
+  },
+  "user": {
+    "$oid": "63ad5ef6d1138aaa70aa05cf"
+  },
+  "username": "messi",
+  "password": "$2a$12$YpdN7ph72lfBTbyFUJ3JNO4rx6TzOQwbb6n5OZCGUJZYbP.8myzMG",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672306423042"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672306423042"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad611dd1138aaa70aa05f1"
+  },
+  "user": {
+    "$oid": "63ad611dd1138aaa70aa05ef"
+  },
+  "username": "ronaldo",
+  "password": "$2a$12$jVIhRSSgZczM4Sx2dsd7.u7H4wI.UolRkwsG43NujriEx.8WMK2sG",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672306973521"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672306973521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aa996788b5203ab2a22"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f84"
+  },
+  "username": "vannam",
+  "password": "$2a$12$53ymrohZizGapR711BMpD.kTkHNPeVIPe04NebU8aNW15.g9mqoh2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366761953"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220147"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aaa96788b5203ab2a24"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8f"
+  },
+  "username": "hungcuong",
+  "password": "$2a$12$0C36swM.fQqs7nNi0eBm6exPqnXVjHuxYESCJNwk5feqosGRtVTzq",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366762893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220061"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aab96788b5203ab2a26"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f85"
+  },
+  "username": "namanh",
+  "password": "$2a$12$7hAWWnVbR9drLtny3W.xqODJOfif9QYarVwc8KWs5vxA9TNdMZVZi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366763115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220151"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aab96788b5203ab2a28"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8d"
+  },
+  "username": "ngoclan",
+  "password": "$2a$12$oQ53VaQ7e.189mxUf6zXjuHFu3U0SemqXIorRBS1NnDvtkmRU4XEy",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366763828"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220154"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aab96788b5203ab2a2c"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f82"
+  },
+  "username": "anhtoan",
+  "password": "$2a$12$irb9kgSyLFvt84U7WTgGO.Y4.HDmoNgeex3fZfefNT7H4O1OkC4cy",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366763974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aab96788b5203ab2a2e"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f83"
+  },
+  "username": "chienthang",
+  "password": "$2a$12$nAZj8WC6/ornTQ26XgPTBOgwg4W6Stp1tg.jiaW8WFvCe1QtqUmGi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366763980"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219789"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a30"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f86"
+  },
+  "username": "thivan",
+  "password": "$2a$12$fJTb.pZFUKxIAxa.oiAVk.ibBK/slZMmoO0Cyqxhnuw4EFm5CuX36",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219811"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a32"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f87"
+  },
+  "username": "tuyethong",
+  "password": "$2a$12$TVbhInDSyAViLzYMragHQuMItIugZ1rXhB.ZVxlBd1YKsVXp/zf0a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219819"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a36"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f89"
+  },
+  "username": "vanha",
+  "password": "$2a$12$UdPXqXCr3liuEbwDN7.If.0iSpKblhktjHfVBrBg5jf/cdkm92wKy",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220113"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a38"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8a"
+  },
+  "username": "thilan",
+  "password": "$2a$12$s8oHUdI74qciqKcS2J1Q3ut9bQk3XYugHAc6Cri596OAwyvXY5bqe",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764336"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220115"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a3a"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8b"
+  },
+  "username": "quangvinh",
+  "password": "$2a$12$skwB/FvZkycF4/E.lWr6B.9FVaLdxrSQK5yrBKKfvV5h81P5Vv0pu",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220156"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a3c"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8c"
+  },
+  "username": "hoalan",
+  "password": "$2a$12$qcUs6BNGmrBR26QrCyuV0enR/XgQLQOcjyXM2TUuiWK/AVL8MW/xm",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764339"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219965"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a3e"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f90"
+  },
+  "username": "viethoang",
+  "password": "$2a$12$ttddxhrhwmRA.toTf1uIouOmgmTykgo56Dy9YJYIXLTwk4XEHbcgC",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764341"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219970"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aac96788b5203ab2a34"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f88"
+  },
+  "username": "tuanlong",
+  "password": "$2a$12$qK9fkhCVPYmhRlirzzK/KeneN8TfRCUYedh0RrRlzHDPsTdgZIjsS",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366764327"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367219976"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae4aab96788b5203ab2a2a"
+  },
+  "user": {
+    "$oid": "63adc8ab75f71a4a047c6f8e"
+  },
+  "username": "nguyenhoang",
+  "password": "$2a$12$8.bc7m19W251bQO9kB.rAuf4g6.d4/eTyKjmP5U4aaGh8nrfnEpjq",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672366763844"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672367220134"
+    }
+  },
+  "__v": 0
+}]

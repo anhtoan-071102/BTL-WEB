@@ -1,0 +1,902 @@
+[{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d61f"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-rXf3e",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d61e"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-66zjp",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d620"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-nPl14",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d61d"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-o3VmM",
+  "status": "Về đại lý",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": {
+    "$oid": "63abf0054d007adda6c1a347"
+  },
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689815"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672385919682"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d623"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-qcPnX",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d624"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-Aoeex",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d625"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-29Hbi",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d626"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-EDtWp",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d621"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-5nNah",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae79416f39c81d9db7d622"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f6c"
+  },
+  "productLine": {
+    "$oid": "63a9c79761ca8ab3eb4ef834"
+  },
+  "productCode": "N2WJHF-GEIDK-A7lDU",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672378689816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea26ee51b4093273ff40c"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f7b"
+  },
+  "productLine": {
+    "$oid": "63a9c89961ca8ab3eb4ef83f"
+  },
+  "productCode": "N2WJHF-ZRURS-XzVz9",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389230104"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389230104"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41a"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-fBqDl",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250185"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41c"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-Gpn1M",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41b"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-xDrmo",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41d"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-yZNVo",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41e"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-Mm9TP",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff422"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-qRVlM",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff421"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-KphSk",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff424"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-FricJ",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff425"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-KEfui",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff423"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-arZFZ",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff426"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-6AuSe",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff427"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-baP8B",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff428"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-nwbS7",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff42a"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-tUNXd",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff429"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-zJGu9",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff42b"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-NXz7H",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff42c"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-s1qBM",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff42d"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-KQFrP",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff420"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-znMYv",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aea282e51b4093273ff41f"
+  },
+  "productModel": {
+    "$oid": "63adc86a75f71a4a047c6f74"
+  },
+  "productLine": {
+    "$oid": "63ad6556d1138aaa70aa064b"
+  },
+  "productCode": "N2WJHF-LPSWD-FHw4X",
+  "status": "Mới sản xuất",
+  "factory": {
+    "$oid": "63abe44231ba22597faf4a28"
+  },
+  "agent": null,
+  "serviceCenter": null,
+  "customer": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672389250186"
+    }
+  },
+  "__v": 0
+}]

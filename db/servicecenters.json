@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "63ac106f35fa07b0bc19cccf"
+  },
+  "name": "Trung tâm bảo hành 1",
+  "province": "Thành phố Hà Nội",
+  "district": "Quận Cầu Giấy",
+  "ward": "Phường Dịch Vọng",
+  "street": "số 000",
+  "phoneNumber": "0293930998",
+  "email": "warranty1@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672220783702"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672220783702"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad6823d1138aaa70aa0691"
+  },
+  "name": "Trung tâm bảo hành 2",
+  "province": "Thành phố Hồ Chí Minh",
+  "district": "Quận 1",
+  "ward": "Phường Bến Thành",
+  "street": "số 999",
+  "phoneNumber": "0382534881",
+  "email": "warranty2@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308771032"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308771032"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad6865d1138aaa70aa0695"
+  },
+  "name": "Trung tâm bảo hành 3",
+  "province": "Thành phố Hải Phòng",
+  "district": "Quận Lê Chân",
+  "ward": "Phường Cát Dài",
+  "street": "số 999",
+  "phoneNumber": "0837736992",
+  "email": "warranty3@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308837940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308837940"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad68a5d1138aaa70aa069d"
+  },
+  "name": "Trung tâm bảo hành 4",
+  "province": "Thành phố Đà Nẵng",
+  "district": "Quận Cẩm Lệ",
+  "ward": "Phường Khuê Trung",
+  "street": "số 5000",
+  "phoneNumber": "0382746928",
+  "email": "warranty4@gmail.com",
+  "totalProducts": 0,
+  "products": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672308901029"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672308901029"
+    }
+  },
+  "__v": 0
+}]

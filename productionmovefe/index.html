@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Production Move</title>
+
+    <link rel="stylesheet" href="src/sass/main.scss" />
+
+    <script type="module" src="src/js/controller.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <!-- <div class="container--absolute">
+        <div class="modal-box">
+          <div class="modal">
+            <div class="modal__header">
+              <h1>Thêm người dùng</h1>
+              <button class="btn btn-close-modal">
+                <svg class="icon icon--smaller">
+                  <use xlink:href="src/img/symbol.svg#icon-cross"></use>
+                </svg>
+              </button>
+            </div>
+            <form action="/" class="form" enctype="multipart/form-data">
+              <div class="form__input-box">
+                <span class="form__span form__span--required">Hình ảnh</span>
+                <input class="form__input--hidden" type="file" id="userImage" />
+                <div class="form__image-box">
+                  <label for="userImage">
+                    <img src="src/img/Upload-img.png" alt="" />
+                  </label>
+                </div>
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required"
+                  >Tên đăng nhập</span
+                >
+                <input
+                  class="form__input"
+                  type="text"
+                  id="userUsername"
+                  placeholder="Tên đăng nhập"
+                  required
+                />
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required">Mật khẩu</span>
+                <input
+                  class="form__input"
+                  type="text"
+                  id="userPassword"
+                  placeholder="Mật khẩu"
+                  required
+                />
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required">Họ và tên</span>
+                <input
+                  class="form__input"
+                  type="text"
+                  id="userName"
+                  placeholder="Họ và tên"
+                  required
+                />
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required"
+                  >Số điện thoại</span
+                >
+                <input
+                  class="form__input"
+                  type="text"
+                  id="userPhoneNumber"
+                  placeholder="Số điện thoại"
+                  required
+                />
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required">Email</span>
+                <input
+                  class="form__input"
+                  type="text"
+                  id="userEmail"
+                  placeholder="Email"
+                  required
+                />
+              </div>
+              <div class="form__input-box">
+                <span class="form__span form__span--required">Vai trò</span>
+                <input
+                  type="hidden"
+                  class="form__input"
+                  id="userRole"
+                  required
+                />
+                <div class="form__select">
+                  <div class="form__select-value">Vai trò</div>
+                  <svg class="icon icon--smaller btn-show-options">
+                    <use
+                      xlink:href="src/img/symbol.svg#icon-chevron-right"
+                    ></use>
+                  </svg>
+                  <div
+                    class="form__select-options form__select-options--hidden select-district"
+                  >
+                    <div
+                      class="form__select-option form__select-option--disable"
+                    >
+                      vai trò
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="form__input-box">
+                <span class="form__span form__span--required"
+                  >Cở sở sản xuất</span
+                >
+                <input
+                  type="hidden"
+                  class="form__input"
+                  id="agentDistrict"
+                  required
+                />
+                <div class="form__select">
+                  <div class="form__select-value">Vai trò</div>
+                  <svg class="icon icon--smaller btn-show-options">
+                    <use
+                      xlink:href="src/img/symbol.svg#icon-chevron-right"
+                    ></use>
+                  </svg>
+                  <div
+                    class="form__select-options form__select-options--hidden select-district"
+                  >
+                    <div
+                      class="form__select-option form__select-option--disable"
+                    >
+                      vai trò
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="form__submit">
+                <button
+                  type="submit"
+                  class="btn btn--bg-primary btn--white btn--full btn--pd"
+                >
+                  Thêm
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div> -->
+      <div class="container__left container__left--show">
+        <div class="sidebar">
+          <div class="sidebar__logo">
+            <img src="src/img/Logo.png" alt="" />
+          </div>
+
+          <div class="sidebar__menu">
+            <nav class="nav">
+              <ul class="nav__links">
+                <li class="nav__item">
+                  <a class="nav__link parent-link nav__link--active" href="/">
+                    <svg class="icon icon--small">
+                      <use xlink:href="src/img/symbol.svg#icon-briefcase"></use>
+                    </svg>
+                    <p>Quản lý</p>
+                    <svg class="icon icon--small icon-chev">
+                      <use
+                        xlink:href="src/img/symbol.svg#icon-chevron-right"
+                      ></use>
+                    </svg>
+                  </a>
+                  <ul class="nav__links nav__links--child">
+                    <li class="nav__item">
+                      <a class="nav__link nav__link--active" href="/">
+                        <span class="dot"></span>
+                        <p>Dòng sản phẩm</p>
+                      </a>
+                    </li>
+                    <li class="nav__item">
+                      <a class="nav__link" href="/">
+                        <span class="dot"></span>
+                        <p>Cơ sở sản xuất</p>
+                      </a>
+                    </li>
+                    <li class="nav__item">
+                      <a class="nav__link" href="/">
+                        <span class="dot"></span>
+                        <p>Đại lý bán hàng</p>
+                      </a>
+                    </li>
+                    <li class="nav__item">
+                      <a class="nav__link" href="/">
+                        <span class="dot"></span>
+                        <p>Trung tâm bảo hành</p>
+                      </a>
+                    </li>
+                    <li class="nav__item">
+                      <a class="nav__link" href="/">
+                        <span class="dot"></span>
+                        <p>Người dùng</p>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav__item">
+                  <a class="nav__link" href="/">
+                    <svg class="icon icon--small">
+                      <use xlink:href="src/img/symbol.svg#icon-table"></use>
+                    </svg>
+                    <p>Thống kê</p>
+                  </a>
+                </li>
+                <li class="nav__item">
+                  <a class="nav__link" href="/">
+                    <svg class="icon icon--small">
+                      <use xlink:href="src/img/symbol.svg#icon-crop"></use>
+                    </svg>
+                    <p>Phân tích</p>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+
+          <div class="sidebar__footer">
+            <div class="copyright">
+              <p><span>&copy;</span> 2022 Bigcorp</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container__right">
+        <div class="container__topbar">
+          <div class="topbar">
+            <button class="btn btn-show-sidebar">
+              <svg class="icon icon--small icon--white">
+                <use xlink:href="src/img/symbol.svg#icon-menu"></use>
+              </svg>
+            </button>
+
+            <div class="topbar__auth">
+              <div class="user">
+                <img
+                  class="user__image"
+                  src="https://pbs.twimg.com/media/FWy7NunVEAIAVZ6.jpg"
+                  alt=""
+                />
+                <div class="user__name">Naksu</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container__breadcrumb">
+          <div class="breadcrumb">
+            <h1>Dòng sản phẩm</h1>
+            <div class="breadcrumb__path">
+              <span>Home</span>
+              <svg class="icon">
+                <use xlink:href="src/img/symbol.svg#icon-chevron-right"></use>
+              </svg>
+              <span>Quản lý</span>
+              <svg class="icon">
+                <use xlink:href="src/img/symbol.svg#icon-chevron-right"></use>
+              </svg>
+              <span>Dòng sản phẩm</span>
+            </div>
+          </div>
+        </div>
+        <div class="container__main">
+          <div class="main">
+            <div class="statistic">
+              <div class="statistic__item statistic-product-quantity">
+                <div class="item-top">
+                  <h2>Số liệu sản phẩm</h2>
+                  <div class="select">
+                    <div class="select__value">01/ 2022</div>
+                    <button class="btn">
+                      <svg class="icon icon--smaller">
+                        <use
+                          xlink:href="src/img/symbol.svg#icon-chevron-right"
+                        ></use>
+                      </svg>
+                    </button>
+                    <div class="select__options select__options--hidden">
+                      <div class="select__item" data-value="01/2022">
+                        01/ 2022
+                      </div>
+                      <div class="select__item" data-value="02/2022">
+                        02/ 2022
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="statistic__content">
+                  <p>Tổng 102 sản phẩm</p>
+                </div>
+              </div>
+              <div class="statistic__item statistic-sold-products">
+                <div class="item-top">
+                  <h2>Số lượng bán ra</h2>
+                  <div class="select">
+                    <div class="select__value">01/ 2022</div>
+                    <button class="btn">
+                      <svg class="icon icon--smaller">
+                        <use
+                          xlink:href="src/img/symbol.svg#icon-chevron-right"
+                        ></use>
+                      </svg>
+                    </button>
+                    <div class="select__options select__options--hidden">
+                      <div class="select__item" data-value="01/2022">
+                        01/ 2022
+                      </div>
+                      <div class="select__item" data-value="02/2022">
+                        02/ 2022
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="statistic__content">
+                  <p>Tổng 102 sản phẩm</p>
+                </div>
+              </div>
+              <div class="statistic__item statistic-failed-rate">
+                <div class="item-top">
+                  <h2>Tỉ lệ sản phẩm lỗi</h2>
+                  <div class="select">
+                    <div class="select__value">01/ 2022</div>
+                    <button class="btn">
+                      <svg class="icon icon--smaller">
+                        <use
+                          xlink:href="src/img/symbol.svg#icon-chevron-right"
+                        ></use>
+                      </svg>
+                    </button>
+                    <div class="select__options select__options--hidden">
+                      <div class="select__item" data-value="01/2022">
+                        01/ 2022
+                      </div>
+                      <div class="select__item" data-value="02/2022">
+                        02/ 2022
+                      </div>
+                    </div>
+                  </div>
+                  <div class="select">
+                    <div class="select__value">01/ 2022</div>
+                    <button class="btn">
+                      <svg class="icon icon--smaller">
+                        <use
+                          xlink:href="src/img/symbol.svg#icon-chevron-right"
+                        ></use>
+                      </svg>
+                    </button>
+                    <div class="select__options select__options--hidden">
+                      <div class="select__item">Bỏ chọn</div>
+                      <div class="select__item" data-value="01/2022">
+                        Cơ sở 1
+                      </div>
+                      <div class="select__item" data-value="02/2022">
+                        Cơ sở 2
+                      </div>
+                    </div>
+                  </div>
+                  <div class="select">
+                    <div class="select__value">01/ 2022</div>
+                    <button class="btn">
+                      <svg class="icon icon--smaller">
+                        <use
+                          xlink:href="src/img/symbol.svg#icon-chevron-right"
+                        ></use>
+                      </svg>
+                    </button>
+                    <div
+                      class="select__options select-s-agent select__options--hidden"
+                    >
+                      <div class="select__item">Bỏ chọn</div>
+                      <div class="select__item" data-value="01/2022">
+                        Đại lý 1
+                      </div>
+                      <div class="select__item" data-value="02/2022">
+                        Đại lý 2
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="statistic__content">
+                  <p>Tổng 102 sản phẩm</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
